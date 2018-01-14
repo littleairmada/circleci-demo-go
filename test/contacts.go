@@ -1,7 +1,7 @@
 package test
 
 import (
-	"github.com/CircleCI-Public/circleci-demo-go/service"
+	"github.com/littleairmada/circleci-demo-go/service"
 	"github.com/stretchr/testify/require"
 )
 
